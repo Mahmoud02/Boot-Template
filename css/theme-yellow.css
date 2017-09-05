@@ -1,0 +1,21 @@
+.option i{  
+    background: #FFD500;
+}
+
+footer span ,footer h3 ,footer .list li:hover,.testmonials span {
+    color:#FFD500
+}
+.subcribe-sec button ,.subcribe-sec button:hover,.carousel-indicators .active ,.skill .tskill .btn,.skill .tskill .btn:hover,.contact .ccontact .btn{
+    background-color:#FFD500
+}
+.option .color-option{
+    
+    border:4px solid  #FFD500;
+}
+.testmonials .carousel-indicators li ,.pricesec .pbox p{ 
+    
+    border: 1px solid #FFD500;
+}
+#scroll:hover{
+    background-color: #FFD500;
+}

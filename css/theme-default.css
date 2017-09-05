@@ -1,0 +1,28 @@
+
+/*
+#E426D5 purple
+#FFD500 yellow
+#E41B17
+deepskyblue
+*/
+.option i{  
+    background: deepskyblue;
+}
+
+footer span ,footer h3 ,footer .list li:hover,.testmonials span {
+    color:deepskyblue
+}
+.subcribe-sec button ,.subcribe-sec button:hover,.carousel-indicators .active ,.skill .tskill .btn,.skill .tskill .btn:hover,.contact .ccontact .btn{
+    background-color:deepskyblue
+}
+.option .color-option{
+    
+    border:4px solid  deepskyblue;
+}
+.testmonials .carousel-indicators li ,.pricesec .pbox p{ 
+    
+    border: 1px solid deepskyblue;
+}
+#scroll:hover{
+    background-color: deepskyblue;
+}
